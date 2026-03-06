@@ -1,0 +1,10 @@
+basicsr.egg-info/
+datasets/
+.DS_Store
+.idea/*
+experiments
+logs/
+*results*
+*__pycache__*
+*.sh
+.eggs/
